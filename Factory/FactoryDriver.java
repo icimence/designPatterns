@@ -1,5 +1,5 @@
 package Factory;
-public class ClientDriver {
+public class FactoryDriver {
     public static void main (String[] args){
         System.out.println(">>>>>>>>>>>This is factory pattern<<<<<<<<<<<");
         System.out.println("Now I create a truck to deliver the package!");
