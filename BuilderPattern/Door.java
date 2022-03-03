@@ -22,7 +22,7 @@ public class Door {
         if (open) {
             System.out.println("你走出了家门");
         } else {
-            System.out.println("门还关着，你撞在了门上");
+            System.err.println("门还关着，你撞在了门上");
         }
     }
 
