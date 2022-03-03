@@ -1,4 +1,4 @@
-package Factory;
+package FactoryPattern;
 
 public abstract class Factory {
     public abstract Transportation createTrans();

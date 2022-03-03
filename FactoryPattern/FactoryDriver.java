@@ -1,4 +1,4 @@
-package Factory;
+package FactoryPattern;
 public class FactoryDriver {
     public static void main (String[] args){
         System.out.println(">>>>>>>>>>>This is factory pattern<<<<<<<<<<<");

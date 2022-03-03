@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactoryPattern;
 
 public class VictorianSofa implements Sofa{
     @Override

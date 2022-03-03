@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactoryPattern;
 
 public interface AbstractFactory {
     Chair createChair();

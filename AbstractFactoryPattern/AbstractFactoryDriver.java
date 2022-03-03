@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactoryPattern;
 /**可以直接使用工厂生产的类进行消费，或者使用FurnitureSeller作为包装，成套使用
  * 两种调用方式的区别在于是否隐藏产品类的使用细节
  * 如果使用了FurnitureSeller则客户端，则在客户端视角将不会知道业务内容和方法
